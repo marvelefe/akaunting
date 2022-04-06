@@ -52,6 +52,8 @@ return [
     'sales'                 => 'Venda|Vendas',
     'purchases'             => 'Compra|Compras',
     'notifications'         => 'Notificações',
+    'countries'             => 'País|Países',
+    'cities'                => 'Povoado / Cidade|Povoados / Cidades',
 
     'welcome'               => 'Bem-vindo',
     'banking'               => 'Banco',
@@ -73,6 +75,7 @@ return [
     'add_new'               => 'Adicionar novo',
     'add_income'            => 'Adicionar Renda',
     'add_expense'           => 'Adicionar Despesa',
+    'add_transfer'          => 'Adicionar Transferência',
     'show'                  => 'Visualizar',
     'edit'                  => 'Editar',
     'delete'                => 'Excluir',
@@ -163,6 +166,8 @@ return [
     'amount_due'            => 'Total devido',
     'financial_year'        => 'Ano Fiscal',
     'created'               => 'Criado',
+    'state'                 => 'Província / Estado',
+    'zip_code'              => 'Código Postal / CEP',
 
     'card' => [
         'cards'                 => 'Cartão|Cartões',
